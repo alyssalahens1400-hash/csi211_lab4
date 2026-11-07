@@ -24,6 +24,7 @@ upcoming_events = [
   "Friday Game Night - 6:00 PM @ Student Union",
   "Catan Tournament - Saturday @ 2:00 PM",
   "RP One-Shot Session - Next Tuesday @ 5:00 PM",
+  "Chess Tournament - Next Thursday @ 4:00 PM",
 ]
 
 # Requirement 1: Section Heading 1
