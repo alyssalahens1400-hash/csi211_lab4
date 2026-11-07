@@ -36,7 +36,7 @@ for event in upcoming_events:
 
 # Requirement 5 (Comment 2): Store club details in a dictionary for quick key-value lookups.
 club_info = {
-"Meeting Location" : " Student Union, Room 204",
+"Meeting Location" : " Student Union, Room 305",
   "Faculty Advisor" : "Dr. Alex Morgan",
   "Memebership Dues" : "Free for all students",
 }
